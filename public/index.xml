@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Mar 2024 14:10:03 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 02 Mar 2024 14:10:03 +0600</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!
+Welcome to My Blog This is my first blog post using Jekyll. I&amp;rsquo;m excited to start sharing my thoughts and experiences with you!
+About Me I&amp;rsquo;m a passionate writer who loves to explore various topics. In this blog, I&amp;rsquo;ll be discussing:
+Personal development Technology Travel Cooking What to Expect I plan to post regularly, sharing insights, tips, and stories.</description>
+    </item>
+  </channel>
+</rss>
