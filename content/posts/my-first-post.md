@@ -34,4 +34,18 @@ Here's a simple code snippet to brighten your day:
 print("Hello, world!")
 ​```
 
+Another python code(how to check if a number is prime or not):
+```python
+def is_prime(number: int) -> bool:
+    # Time complexity: O(sqrt(n))
+    if number == 1:
+        return False
+    i = 2
+    while i*i <= number:
+        if n % i == 0:
+            return False
+        i += 1
+    return True
+```
+
 Stay tuned for more posts coming soon!
