@@ -6,7 +6,7 @@ draft = false
 
 # Welcome to My Blog
 
-This is my first blog post. I'm excited to start sharing my thoughts and experiences with you!
+This is my first blog post. I'm excited to start sharing my thoughts and experiences with you! (updated)
 
 ## What to Expect
 
