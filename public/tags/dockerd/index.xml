@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Alamin&#39;s Notes</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Alamin&#39;s Notes</description>
+    <title>Dockerd on Alamin&#39;s Notes</title>
+    <link>http://localhost:1313/tags/dockerd/</link>
+    <description>Recent content in Dockerd on Alamin&#39;s Notes</description>
     <image>
       <title>Alamin&#39;s Notes</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 17 Mar 2024 14:01:20 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/dockerd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding Containers with Docker</title>
       <link>http://localhost:1313/posts/understanding-containers-with-docker/</link>
@@ -20,16 +20,6 @@
       <guid>http://localhost:1313/posts/understanding-containers-with-docker/</guid>
       <description>Motivation Recently, I had to buy a new laptop because my 6-years-old laptop&amp;rsquo;s motherboard got burnt, and it was not fixable. But luckily, my hard drive storage was okay, and I use Git and GitHub a lot, so most of my important projects are on GitHub.
 Though all of my personal projects were running perfectly on my old Linux/Ubuntu laptop, they are not running on my new one because of a Python version mismatch, and some packages are not directly available for Apple Silicon.</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Sat, 02 Mar 2024 14:10:03 +0600</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Welcome to My Blog This is my first blog post. I&amp;rsquo;m excited to start sharing my thoughts and experiences with you! (updated)
-What to Expect I plan to post regularly, sharing insights, tips, and stories. Feel free to leave comments and engage with the content.
-Here&amp;rsquo;s a simple code snippet to brighten your day:
-def is_prime(number: int) -&amp;gt; bool: # Time complexity: O(sqrt(n)) if number == 1: return False i = 2 while i*i &amp;lt;= number: if n % i == 0: return False i += 1 return True Stay tuned for more posts coming soon!</description>
     </item>
   </channel>
 </rss>

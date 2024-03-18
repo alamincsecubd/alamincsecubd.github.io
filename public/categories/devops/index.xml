@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DevOps on Alamin&#39;s Notes</title>
+    <link>http://localhost:1313/categories/devops/</link>
+    <description>Recent content in DevOps on Alamin&#39;s Notes</description>
+    <image>
+      <title>Alamin&#39;s Notes</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 17 Mar 2024 14:01:20 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding Containers with Docker</title>
+      <link>http://localhost:1313/posts/docker-intro/</link>
+      <pubDate>Sun, 17 Mar 2024 14:01:20 +0600</pubDate>
+      <guid>http://localhost:1313/posts/docker-intro/</guid>
+      <description>Motivation Recently I bought a macbook because my 6 year old laptop’s motherboard got burnt and it was not fixable. But luckily my hard drive storage was ok. I had all of my personal projects running perfectly on that machine but its not running. because of python version mismatch and some packages are not directly available for mac. So let’s solve the iconic line of dev community: “It works on my machine” :D</description>
+    </item>
+  </channel>
+</rss>
